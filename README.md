@@ -10,39 +10,6 @@ This project is an AI-powered lead management and email marketing application th
 - Altogic account
 - OpenAI API key
 
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/zinedkaloc/ai-lead-email-marketing.git
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Set up environment variables:
-
-```bash
-REACT_APP_ENDPOINT_URL=YOUR_ALTOGIC_CREATE_LEAD_ENDPOINT_URL
-```
-
-4. Start the application:
-
-```bash
-npm start
-```
-
-5. Open the application in your browser:
-
-```bash
-
-http://localhost:3000
-
-```
 
 ## Built With
 
